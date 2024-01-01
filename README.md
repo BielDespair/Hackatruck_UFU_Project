@@ -15,7 +15,7 @@ Aplicativo para se contratar prestadores de serviço de forma rápida e segura, 
      Swift<br>  
      Node-Red<br>
      IBM Cloud<br>
-       <img align="center" alt="Swift" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"><br>
+       <img align="center" alt="Swift" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
        <img align="center" alt="NodeRed" height="50" width="50" src="https://nodered.org/about/resources/media/node-red-icon.png"><br>
 </div>
 <hr>
