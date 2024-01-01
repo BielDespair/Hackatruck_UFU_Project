@@ -17,14 +17,6 @@ Aplicativo para se contratar prestadores de serviço de forma rápida e segura, 
         <img align="center" alt="NodeRed" height="30" width="40" src="https://nodered.org/about/resources/media/node-red-icon.png">
     </div>
 </div>
-
-<hr>
-
-<div align="center">
-    <h1> :octocat: GIT  </h1> 
-</div>
-
-
 <hr>
 
 <div align="center">
