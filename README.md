@@ -12,14 +12,12 @@ Aplicativo para se contratar prestadores de serviço de forma rápida e segura, 
 
 <div align="center">
     <div style="display:"><br>
-     Swift
+     Swift<br>
         <img align="center" alt="Swift" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"><br>
-     Node-Red
+     Node-Red<br>
         <img align="center" alt="NodeRed" height="50" width="50" src="https://nodered.org/about/resources/media/node-red-icon.png"><br>
-     IBM Cloud
-       <img align="center" alt="NodeRed" height="50" width="50" src="[[https://upload.wikimedia.org/wikipedia/commons/2/24/IBM_Cloud_logo.png](https://upload.wikimedia.org/wikipedia/commons/2/24/IBM_Cloud_logo.png](https://upload.wikimedia.org/wikipedia/commons/2/24/IBM_Cloud_logo.png)](https://upload.wikimedia.org/wikipedia/commons/2/24/IBM_Cloud_logo.png)"><br>
-     
-    </div>
+     IBM Cloud<br>
+       <img align="center" alt="NodeRed" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css""><br>
 </div>
 <hr>
 
