@@ -17,7 +17,7 @@ Aplicativo para se contratar prestadores de serviço de forma rápida e segura, 
      Node-Red<br>
         <img align="center" alt="NodeRed" height="50" width="50" src="https://nodered.org/about/resources/media/node-red-icon.png"><br>
      IBM Cloud<br>
-       <img align="center" alt="NodeRed" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css""><br>
+       <img align="center" alt="IBM Cloud" height="50" width="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg)""><br>
 </div>
 <hr>
 
