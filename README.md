@@ -11,10 +11,10 @@ Aplicativo para se contratar prestadores de serviço de forma rápida e segura, 
 ## ⚙️ Tecnologias Utilizadas
 
 <div align="center">
-    <div style="display: inline_block"><br>
-        <img align="center" alt="Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
-        <img align="center" alt="Apple" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
-        <img align="center" alt="NodeRed" height="30" width="40" src="https://nodered.org/about/resources/media/node-red-icon.png">
+    <div style="display:"><br>
+        <img align="center" alt="Swift" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
+        <img align="center" alt="Apple" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
+        <img align="center" alt="NodeRed" height="50" width="50" src="https://nodered.org/about/resources/media/node-red-icon.png">
     </div>
 </div>
 <hr>
